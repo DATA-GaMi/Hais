@@ -1,0 +1,5 @@
+deb http://mirrors.sohu.com/debian/ wheezy main non-free contrib
+deb http://mirrors.sohu.com/debian/ wheezy-proposed-updates main non-free contrib
+deb-src http://mirrors.sohu.com/debian/ wheezy main non-free contrib
+deb [arch=amd64] https://download.docker.com/linux/debian wheezy stable
+deb-src http://mirrors.sohu.com/debian/ wheezy-proposed-updates main non-free contrib
